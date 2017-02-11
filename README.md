@@ -10,7 +10,7 @@ Figure 1.
 # Rating system is (almost) entirely useless 
 As it turned out the average rating for all categories was just over 4 stars (although there were many unrated/0 star recipes).In fact over 63% of all recipes have an average rating over 4 stars (see figure 2). This data suggests that either the allrecipies.com ratings are inflated or that people who dislike a recipie are unlikely to post a review. In either case active solicitation of reviews, restructuring of the rating system, or implementation of a trusted reviewer (such as in yelp) would be worth considering if the allrecipies.com staff wanted to improve their site. 
 
-![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure3.png)
+![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure2.png)
 Figure 2.
 
 # Pumpkin cookies are in a class of their own and family tree of cookies
