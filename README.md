@@ -3,7 +3,8 @@
 These collection of scripts are for scraping of easyrecipes.com for cookie recipes and associated ratings. Also included is some basic analysis of the resultant data and scripts to build a family tree of different cookie recipes. These scripts may one day be a nice user friendly package, but not today. A description of some interesting results found from this analysis is given below.
 
 # Which cookies are the most popular?
-I found that pumpkin cookie recipes, although representing a small proportion of recipies overall, had the second highest average number of reviews across the major categories of cookies (Figure 1). The first and third highest average number of reviews were from chocolate chip and oatmeal cookies. As it turned out the average rating for all categories was just over 4 stars (although there were many unrated/0 star recipes).
+I found that pumpkin cookie recipes, although representing a small proportion of recipies overall, had the second highest average number of reviews across the major categories of cookies (Figure 1). The first and third highest average number of reviews were from chocolate chip and oatmeal cookies.
+
 ![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure_1.png)
 Figure 1.
 
