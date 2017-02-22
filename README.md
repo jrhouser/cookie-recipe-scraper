@@ -19,3 +19,19 @@ To discover how closely different types of cookies are related, I built a family
 
 ![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure3.png)
 Figure 3.
+
+
+# Correlation network says to make gluten free rice crispy treat cookie mash up
+
+printing out the significantly correlated ingredients among cookie recipes we see very few highly correlating ingredients.
+Most of the ingredient pairings are used commonly for subsitutes for flour. The highest correlated pair is for rice crispy cereal and marshmellows. An obvious new recipe emerges from the data. gluten free rice crispy treat cookies.
+
+
+| A        |B           | C  |
+| ------------- |:-------------:| -----:|
+| KELLOGG'S RICE KRISPIES cereal      | package JET-PUFFED Marshmallows | 0.6667 |
+| rice flour      | tapioca starch      |   0.577 |
+| rose water | semolina flour      |    0.576 |
+| matzo cake meal | potato starch | 0.558 |
+| active dry yeast | warm milk | 0.51589 |
+
