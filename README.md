@@ -35,3 +35,4 @@ Most of the ingredient pairings are used commonly for subsitutes for flour. The 
 | matzo cake meal | potato starch | 0.558 |
 | active dry yeast | warm milk | 0.51589 |
 
+Table 1
