@@ -1,8 +1,7 @@
 
 
 
-# Figure 1. Oatmeal and pumpkin cookies are in a class of their own.
-![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure3.png)
+
 
 
 # Table 1. A new and interesting recipe
@@ -16,12 +15,19 @@
 | active dry yeast | warm milk | 0.51589 |
 
 
-# Figure 2. User ratings are almost entirely useless.
+# Figure 1. User ratings are almost entirely useless.
 
 ![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure2.png)
 
 
-# Figure 3. People love Pumpkin cookies.
+# Figure 2. People love Pumpkin cookies.
 
 ![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure_1.png)
 
+
+# Additional Figures
+
+# Figure 4. Oatmeal and pumpkin cookies are in a class of their own.
+![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure3.png)
+
+# Figure 5. Ratings 
