@@ -31,3 +31,4 @@
 ![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure3.png)
 
 # Figure 5. Ratings 
+![alt tag](https://github.com/jrhouser/cookie-recipe-scraper/blob/master/figure2_merged.png)
